@@ -19,15 +19,7 @@ Advanced Custom Fields PRO comes with a range of advanced features, including:
 - **Options Page:** Add custom admin pages to edit ACF fields.
 - **Gallery Field:** Build fully customizable image galleries.
 - **Clone Field:** Reuse existing fields and field groups to streamline your workflow.
-
-To access these features, simply activate the plugin and navigate to the **ACF** section in your WordPress dashboard.
-
-## Donate
-
-If [WordPress Premium](https://www.wordpress-premium.net/) helps you access premium plugins safely, consider [supporting us via PayPal](https://www.paypal.com/paypalme/thaikolja) to keep the service running.
-
----
-
+  
 Here are the last three updates from the Advanced Custom Fields PRO changelog to keep you in the loop.
 
 ## Changelog
